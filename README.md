@@ -1,7 +1,8 @@
-# detect-suicidal-ideation
+
 <div align="center">
 
 # AI For Social Good
+# detect-suicidal-ideation
 
 ## Suicidal Ideation Detection In Online Social Content
 
