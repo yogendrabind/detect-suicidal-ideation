@@ -20,11 +20,7 @@ Reddit Data was scraped from subreddits like 'suicide watch', 'depression', 'anx
 
 **The Twitter word cloud (left) and Reddit word cloud (right) are shown as follow:**
 
-<div align="center">
- <img alt="Demo" src="./WordClouds/twitter.png" height="300px" width="400px" />
- &nbsp; &nbsp;
- <img alt="Demo" src="./WordClouds/reddit.png" height="300px" width="400px"/>
-</div>
+
 
 ## Feature Processing and Training
 
